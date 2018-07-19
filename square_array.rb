@@ -1,5 +1,6 @@
 def square_array(array)
-array.each do |num| 
+array.each do |num|
   num_s = num ** 2
   num_s.inspect
+end
 end
